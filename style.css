@@ -248,7 +248,7 @@ section .konten-isi p {
 }
 
 .clients {
-    background: #a8dba8;
+    background: #a3d6b9;
     padding: 15px 0;
     text-align: center;
     
@@ -382,7 +382,7 @@ footer {
 }
 
 .contact-form .text-box {
-    background: #000;
+    background: #fff;
     color: #fff;
     border: none;
     width: calc(50% - 10px);
@@ -400,7 +400,7 @@ footer {
 }
 
 .contact-form textarea {
-    background: #000;
+    background: #fff;
     color: #fff;
     border: none;
     width: 100%;
